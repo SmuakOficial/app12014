@@ -1,0 +1,78 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:300,Light 300);
+
+
+.ui-page{
+
+	color: white;
+	text-shadow:none;
+	font-family: 'Lato', sans-serif;
+
+}
+
+
+#examen-home{
+
+	background-image:url(../img/examen.jpg);
+	background-size:cover;
+	background-size: 100%; 
+}
+#examen-home .ui-header{
+background-color: transparent;
+border: none;
+}
+
+#examen-home .ui-header h1{
+	font-size: 53px;
+	font-weight: bold;
+	text-shadow:none;
+	text-align: center;
+	color: yellow;
+	margin-top: 40px;
+}
+
+
+#examen-home .ui-footer{
+	background-color: transparent;
+	border: none;
+
+}
+
+#examen-home .ui-footer h4{
+	font-size: 16px;
+	margin:0 20%;
+	color: yellow;
+	font-weight: lighter;
+
+
+}
+ #examen-home .ui-content{
+ 	padding-top: 78%;
+ }
+
+ #examen-home .ui-content .ui-input-text{
+ 	border: none;
+ 	border-radius: 1px;
+
+ }
+
+
+#examen-home .ui-content .ui-input-text{
+	box-shadow: none;
+	color:white;
+	text-shadow:none;
+	border-radius:0px;
+	font-size: 17px;
+	margin: 0px;
+	background-color: transparent;
+	line-height: 1px solid yellow;
+	border: 0;
+	border-bottom: 1px solid yellow;
+	margin: 21px;
+	margin-top: -93px;
+
+}
+
+#examen-home .ui-content .ui-input-text input::-webkit-input-placeholder {
+	color: white;
+	font-size: 15px;
+	font-weight: bold;
